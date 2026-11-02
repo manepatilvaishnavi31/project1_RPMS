@@ -1,0 +1,1 @@
+2026-11-02 10:02:12 | ERROR: Candidate not found.
